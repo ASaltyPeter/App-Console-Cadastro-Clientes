@@ -1,0 +1,14 @@
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\bin\Debug\net9.0\AppClientes.exe
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\bin\Debug\net9.0\AppClientes.deps.json
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\bin\Debug\net9.0\AppClientes.runtimeconfig.json
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\bin\Debug\net9.0\AppClientes.dll
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\bin\Debug\net9.0\AppClientes.pdb
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\obj\Debug\net9.0\AppClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\obj\Debug\net9.0\AppClientes.AssemblyInfoInputs.cache
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\obj\Debug\net9.0\AppClientes.AssemblyInfo.cs
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\obj\Debug\net9.0\AppClientes.csproj.CoreCompileInputs.cache
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\obj\Debug\net9.0\AppClientes.dll
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\obj\Debug\net9.0\refint\AppClientes.dll
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\obj\Debug\net9.0\AppClientes.pdb
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\obj\Debug\net9.0\AppClientes.genruntimeconfig.cache
+C:\Users\Kabessote\Desktop\Software Architeture\Projetos\AppClientes\obj\Debug\net9.0\ref\AppClientes.dll
